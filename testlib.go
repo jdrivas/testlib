@@ -10,6 +10,6 @@ func Reverse(s string) string {
 }
 
 // Hello returns a cannonical hello string.
-func Hello(s string) string {
+func Hello() string {
 	return "Hello World"
 }
