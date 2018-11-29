@@ -8,3 +8,8 @@ func Reverse(s string) string {
 	}
 	return string(r)
 }
+
+// Hello returns a cannonical hello string.
+func Hello(s string) string {
+	return "Hello World"
+}
